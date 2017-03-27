@@ -1,5 +1,5 @@
 name:                shownth
-version:             0.1.0.0
+version:             0.1.1.0
 -- synopsis:
 -- description:
 homepage:            https://github.com/githubuser/shownth#readme
@@ -39,3 +39,4 @@ test-suite shownth-test
 source-repository head
   type:     git
   location: https://github.com/githubuser/shownth
+
